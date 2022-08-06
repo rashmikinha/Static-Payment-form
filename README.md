@@ -1,2 +1,2 @@
 # Static-Payment-form
-I made this with the help of html only
+I made this with the help of HTML only
